@@ -1,0 +1,9 @@
+dask[complete]
+dask_ml
+jupyter
+scikit-learn
+graphviz
+numpy
+pyarrow
+distributed
+fsspec==0.5.2
